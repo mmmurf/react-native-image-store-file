@@ -1,0 +1,19 @@
+{
+  "name": "react-native-image-store-file",
+  "version": "0.1.0",
+  "description": "React Native - Write ImageStore image to file",
+  "main": "index.ios.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hoastoolshop/react-native-image-store-file.git"
+  },
+  "author": "Andreas Amsenius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hoastoolshop/react-native-image-store-file/issues"
+  },
+  "homepage": "https://github.com/hoastoolshop/react-native-image-store-file"
+}
